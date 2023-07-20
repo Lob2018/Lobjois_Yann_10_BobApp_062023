@@ -12,7 +12,6 @@ describe('JokesService', () => {
         providers: [JokesService]
       });
       service = TestBed.get(JokesService);
-      service = TestBed.get(JokesService);
   });
 
   it('should be created', () => {
