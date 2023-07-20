@@ -1,4 +1,4 @@
-name: BobApp CI/CD
+name: BobApp CI CD
 
 on:
   push:
